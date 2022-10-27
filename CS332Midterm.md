@@ -6,6 +6,6 @@
  
 	- 
  
- 2. Describe how it impacts the cybersecurity community and penetration testing.
+ 2. Describe how it impacts the Cybersecurity community and penetration testing.
  
 	- 
