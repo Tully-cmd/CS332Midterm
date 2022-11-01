@@ -33,8 +33,17 @@
 	the plethora of openings that need to be filled for Cybersecurity experts working for the 
 	DHS and local government entities. Due to the scope of all those jobs that need to be filled 
 	and the incompetency of the government to gather these individuals to work for the local
-	government and DHS, they will create new standardized education to fill these jobs.
+	government and DHS, they will create new standardized education to fill these jobs. Further
+	study on good solutions for this problem can be beneficial, a new Cybersecurity certification 
+	offered by the federal govenment or making Cybersecurity courses ubiquitous at every education 
+	institution at the community college and upperclass high school level; Funnelling students 
+	into roles that help the government at the local levels.
 
+	No matter the outcome of this bill I can say that S. 2520 will negatively effect black-hat 
+	hackers by tighting up the security on low hanging fruit targets they would otherwise hack
+	or not get caught hacking. Penetration testers will now have to be careful when running 
+	intrusive enumeration scanning techniques on I.P. address space ranges that might contain 
+	hosts to government entities.
 	
 
 ### Sources
