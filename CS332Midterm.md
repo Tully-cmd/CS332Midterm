@@ -13,12 +13,16 @@
  
  2. Describe how it impacts the Cybersecurity community and penetration testing.
  
-	The cost estimate of implementing this law for the next 5 year period is $500,000. This
+	The cost estimate for implementing this law for the next 5 year period is $500,000. This
 	might seem strange but in fact the DHS has been already conducting these coordination
-	activities and this law is simply codifying what the DHS has already been responsible for
-	thus giving them the complete authority to do so. Over the next 5 years there will actually
-	be no new operating requirements from S. 2520, but looking onward I suspect that this can
-	have two completely different outcomes on Cybersecurity.
+	activities mentioned. This law is simply codifying what the DHS has already been responsible 
+	for, thus giving them the rekongized authority to do now. Over the next 5 years there will 
+	actually be no new operating requirements from S. 2520, but looking onward I suspect that 
+	this can have many different outcomes on the Cybersecurity and penetration testing. I think
+	that S. 2520 is laying the foundation for further legislation, specifically to increase
+	the efforts to minimize the impact of cybercriminals domestic and abroad. Our government 
+	has been overdue on increasing the security of their systems especially due to recent 
+	tensions.
 
 	In S. 2520 section F there is heavy emphasis on promoting the security of elections through
 	collaboration between chief officals of all government entities to enforce policies and 
