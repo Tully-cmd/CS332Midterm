@@ -13,41 +13,41 @@
  
  2. Describe how it impacts the Cybersecurity community and penetration testing.
  
-	The cost estimate for implementing this law for the next 5 year period is $500,000. This
-	might seem strange but in fact the DHS has been already conducting these coordination
-	activities mentioned. This law is simply codifying what the DHS has already been responsible 
-	for, thus giving them the rekongized authority to do now. Over the next 5 years there will 
-	actually be no new operating requirements from S. 2520, but looking onward I suspect that 
-	this can have many different outcomes on the Cybersecurity and penetration testing. I think
-	that S. 2520 is laying the foundation for further legislation, specifically to increase
-	the efforts to minimize the impact of cybercriminals domestic and abroad. Our government 
-	has been overdue on increasing the security of their systems especially due to recent 
-	tensions.
+	The cost estimate for implementing S. 2520 for the next 5 year period is $500,000. This might 
+	seem strange but in fact the DHS has been already conducting these coordination	activities 
+	mentioned. This law is simply codifying what the DHS has already been responsible for, thus 
+	giving them the rekongized authority to do so now. Because of this fact, the next 5 year period
+	after S. 2520 comes into effect there will be actually no new operating requirements required.
+	Looking onward I suspect that this law can have many different outcomes on Cybersecurity
+	and penetration testing. I think that S. 2520 is laying the foundation for further legislation;
+	specifically to increase the efforts to minimize the impact from cybercriminals domestic and 
+	abroad. Our government has been overdue on increasing the security of their systems especially 
+	due to recent tensions.
 
-	In S. 2520 section F there is heavy emphasis on promoting the security of elections through
-	collaboration between chief officals of all government entities to enforce policies and 
-	procedures related to the security of election systems. I think that in the long term this
-	law is setting the foundation of locking down election systems and treating election systems
-	as critical systems themselves using the same security design and procedures that would give
-	them the fault tolerance of computers of the likes of that power our infrustructure and send
-	send objects to orbit. This is a problem that has caused divide and heart-ache between the 
-	American people.
+	In S. 2520 section F, there is heavy emphasis on promoting the security of elections. This 
+	will be done through collaboration between chief officals from all government entities to 
+	enforce policies and procedures related to the security of election systems. I think that in 
+	the long term this law is setting the foundation of locking down election systems and treating 
+	election systems as critical systems themselves, using the same security designs and procedures 
+	that would give them reliabiltiy and fault tolerance the likes of the powergrid system and 
+	computers that send objects out of our orbit. This is a problem that has caused divide and heart-
+	ache between the American people.
 
 	One direction I see this impacting Cybersecurity and penetration testing in the future is 
 	the plethora of openings that need to be filled for Cybersecurity experts working for the 
 	DHS and local government entities. Due to the scope of all those jobs that need to be filled 
 	and the incompetency of the government to gather these individuals to work for the local
-	government and DHS, they will create new standardized education to fill these jobs. Further
+	government and the DHS, they will create new standardized education to fill these jobs. Further
 	study on good solutions for this problem can be beneficial, a new Cybersecurity certification 
 	offered by the federal govenment or making Cybersecurity courses ubiquitous at every education 
-	institution at the community college and upperclass high school level; Funnelling students 
-	into roles that help the government at the local levels.
+	institution at the community college and upperclass high school level can prove to be beneficial;
+	Funnelling these students into roles that help the government at the local levels.
 
 	No matter the outcome of this bill I can say that S. 2520 will negatively effect black-hat 
 	hackers by tighting up the security on low hanging fruit targets they would otherwise hack
 	or not get caught hacking. Penetration testers will now have to be careful when running 
 	intrusive enumeration scanning techniques on I.P. address space ranges that might contain 
-	hosts to government entities.
+	hosts to government entities. This is a trend that I see to continue for the noticable future.
 	
 
 ### Sources
